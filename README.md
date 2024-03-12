@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keerthanasrinivasanjs
 - 👀 I’m interested in AI and Chatgpt
-- 🌱 I’m currently learning full stack and devops
+- 🌱 I’m currently learning cyber security and analytics
 - 💞️ I’m looking to collaborate on AI
 - 📫 Reach me through my email:keerthanasrinivasan313@gmail.com
   
